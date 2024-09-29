@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact", "Contact\Contact.csproj", "{173A96C2-DB2A-4DBC-8FDC-72842346EA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birds", "Birds\Birds.csproj", "{7D8C56CF-F87D-49DA-831C-E7CEEB7F908A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2Project", "Example2Project\Example2Project.csproj", "{5B4F2AE1-9E55-462C-B2CC-FB9EFF11D7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173A96C2-DB2A-4DBC-8FDC-72842346EA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173A96C2-DB2A-4DBC-8FDC-72842346EA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173A96C2-DB2A-4DBC-8FDC-72842346EA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173A96C2-DB2A-4DBC-8FDC-72842346EA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8C56CF-F87D-49DA-831C-E7CEEB7F908A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8C56CF-F87D-49DA-831C-E7CEEB7F908A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8C56CF-F87D-49DA-831C-E7CEEB7F908A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8C56CF-F87D-49DA-831C-E7CEEB7F908A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4F2AE1-9E55-462C-B2CC-FB9EFF11D7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4F2AE1-9E55-462C-B2CC-FB9EFF11D7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4F2AE1-9E55-462C-B2CC-FB9EFF11D7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4F2AE1-9E55-462C-B2CC-FB9EFF11D7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75F1BB4-7774-40B5-A535-3512733171F2}
+	EndGlobalSection
+EndGlobal
